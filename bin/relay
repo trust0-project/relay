@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-require('@trust0/relay');
+import '@trust0/relay';
 
