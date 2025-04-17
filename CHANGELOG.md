@@ -1,3 +1,9 @@
+## [1.1.2](https://github.com/trust0-project/relay/compare/v1.1.1...v1.1.2) (2025-04-17)
+
+### Bug Fixes
+
+* files not being copied ([2a0fa16](https://github.com/trust0-project/relay/commit/2a0fa16adde7611db2ed7ad0cac2262cf039d7b8))
+
 ## [1.1.1](https://github.com/trust0-project/relay/compare/v1.1.0...v1.1.1) (2025-04-17)
 
 ### Bug Fixes
