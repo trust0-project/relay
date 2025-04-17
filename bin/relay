@@ -1,3 +1,4 @@
-#!/bin/bash
-node "$(dirname "$0")/../build/index.js"
+#!/usr/bin/env node
+
+require('@trust0/relay');
 

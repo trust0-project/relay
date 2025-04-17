@@ -36,4 +36,5 @@ const announceAddress = process.env.ANNOUNCE_ADDRESS ||
   relayNode.libp2p.addEventListener("peer:discovery", async (event) => {
     console.log('Peer discovered:', event.detail.id.toString(), "with multiaddr", event.detail.multiaddrs)
   })
+  
 })()
