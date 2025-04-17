@@ -1,3 +1,9 @@
+## [1.1.3](https://github.com/trust0-project/relay/compare/v1.1.2...v1.1.3) (2025-04-17)
+
+### Bug Fixes
+
+* binary run fix ([c061b14](https://github.com/trust0-project/relay/commit/c061b147a9d10e2d03f02eae0a79ad2c1bf3210b))
+
 ## [1.1.2](https://github.com/trust0-project/relay/compare/v1.1.1...v1.1.2) (2025-04-17)
 
 ### Bug Fixes
