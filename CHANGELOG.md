@@ -1,3 +1,9 @@
+## [1.1.5](https://github.com/trust0-project/relay/compare/v1.1.4...v1.1.5) (2025-04-17)
+
+### Bug Fixes
+
+* binary is es module ([8dcfe12](https://github.com/trust0-project/relay/commit/8dcfe123907a2142a090170575962540fe788dae))
+
 ## [1.1.4](https://github.com/trust0-project/relay/compare/v1.1.3...v1.1.4) (2025-04-17)
 
 ### Bug Fixes
