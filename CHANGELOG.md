@@ -1,3 +1,9 @@
+## [1.1.4](https://github.com/trust0-project/relay/compare/v1.1.3...v1.1.4) (2025-04-17)
+
+### Bug Fixes
+
+* improve binary execution ([6236f92](https://github.com/trust0-project/relay/commit/6236f9242627b0526a9eec101f7bec1a8a50573c))
+
 ## [1.1.3](https://github.com/trust0-project/relay/compare/v1.1.2...v1.1.3) (2025-04-17)
 
 ### Bug Fixes
