@@ -1,6 +1,6 @@
 {
   "name": "@trust0/relay",
-  "version": "1.1.1",
+  "version": "1.1.0",
   "publishConfig": {
     "access": "public"
   },
@@ -15,6 +15,10 @@
   "bin": {
     "trust0-relay": "./.bin/relay"
   },
+  "files": [
+    "build",
+    ".bin"
+  ],
   "dependencies": {
     "@helia/delegated-routing-v1-http-api-server": "^4.0.4",
     "@trust0/node": "^1.0.1",
