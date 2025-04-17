@@ -12,6 +12,9 @@
     "start": "DEBUG=\"libp2p:*\" nodemon build/index.js",
     "dev": "DEBUG=\"libp2p:*\" tsc-watch --onSuccess \"npm run start\" --noClear"
   },
+  "bin": {
+    "trust0-relay": "./.bin/relay"
+  },
   "dependencies": {
     "@helia/delegated-routing-v1-http-api-server": "^4.0.4",
     "@trust0/node": "^1.0.1",
