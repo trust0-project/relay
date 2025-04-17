@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/trust0-project/relay/compare/v1.1.0...v1.1.1) (2025-04-17)
+
+### Bug Fixes
+
+* add command for relay ([837734c](https://github.com/trust0-project/relay/commit/837734c43bf4cf8400462bd543a5d9ac37dceec1))
+
 ## [1.1.0](https://github.com/trust0-project/relay/compare/v1.0.1...v1.1.0) (2025-04-17)
 
 ### Features
