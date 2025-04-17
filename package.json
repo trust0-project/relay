@@ -13,11 +13,11 @@
     "dev": "DEBUG=\"libp2p:*\" tsc-watch --onSuccess \"npm run start\" --noClear"
   },
   "bin": {
-    "trust0-relay": "./.bin/relay"
+    "trust0-relay": "bin/relay"
   },
   "files": [
     "build",
-    ".bin"
+    "bin"
   ],
   "dependencies": {
     "@helia/delegated-routing-v1-http-api-server": "^4.0.4",
