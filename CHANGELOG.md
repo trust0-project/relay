@@ -1,3 +1,9 @@
+## [1.1.8-rc.3](https://github.com/trust0-project/relay/compare/v1.1.8-rc.2...v1.1.8-rc.3) (2025-04-18)
+
+### Bug Fixes
+
+* release candidate ([2221522](https://github.com/trust0-project/relay/commit/2221522d19539cb0ccf4ae4152234445f89ed5e4))
+
 ## [1.1.8-rc.2](https://github.com/trust0-project/relay/compare/v1.1.8-rc.1...v1.1.8-rc.2) (2025-04-18)
 
 ### Bug Fixes
