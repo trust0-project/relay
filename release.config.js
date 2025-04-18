@@ -11,6 +11,9 @@ export default {
       ['@semantic-release/exec', { "prepareCmd": 'npm version ${nextRelease.version} --git-tag-version false'}],
       ['@semantic-release/exec', { "prepareCmd": 'npm run build'}],
       ['@semantic-release/exec', { "prepareCmd": 'npm publish --access public'}],
+      ['@semantic-release/exec', { "prepareCmd": 'docker build . -t trust0/relay:V${nextRelease.version}'}],
+      ['@semantic-release/exec', { "prepareCmd": 'docker push trust0/relay:V${nextRelease.version}'}],
+      ['@semantic-release/exec', { "prepareCmd": 'docker push trust0/relay:latest'}],
       [
         '@semantic-release/git',
         {

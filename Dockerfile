@@ -4,7 +4,6 @@ COPY package.json yarn.lock ./
 RUN yarn
 COPY . .
 RUN yarn build
-
 WORKDIR /usr/src/app
 ENV PORT=61080
 EXPOSE $PORT
