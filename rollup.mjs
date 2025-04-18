@@ -16,6 +16,7 @@ const externals = [
   "@helia/delegated-routing-v1-http-api-server",
   "http",
   "debug",
+  "@trust0/node",
   "@trust0/stream-config",
   "@emurgo/cardano-serialization-lib-nodejs",
   "@scure/bip39",
