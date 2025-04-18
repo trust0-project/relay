@@ -51,5 +51,5 @@ jobs:
           GIT_COMMITTER_NAME: ${{ steps.import_gpg.outputs.name }}
           GITHUB_TOKEN: ${{ secrets.GH_SECRET }}
         run: |
-          npm install
+          yarn
           npx semantic-release
