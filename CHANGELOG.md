@@ -1,3 +1,9 @@
+## [1.1.8-rc.1](https://github.com/trust0-project/relay/compare/v1.1.7...v1.1.8-rc.1) (2025-04-18)
+
+### Bug Fixes
+
+* releasing to docker improvements ([b989b1a](https://github.com/trust0-project/relay/commit/b989b1a36bff423dcc72205af36a876ee3c5cb3b))
+
 ## [1.1.7](https://github.com/trust0-project/relay/compare/v1.1.6...v1.1.7) (2025-04-18)
 
 ### Bug Fixes
