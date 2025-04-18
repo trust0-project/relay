@@ -1,3 +1,9 @@
+## [1.1.7](https://github.com/trust0-project/relay/compare/v1.1.6...v1.1.7) (2025-04-18)
+
+### Bug Fixes
+
+* improve lock ([5260cf9](https://github.com/trust0-project/relay/commit/5260cf999e16c48acc03ce4e79ddad4a675ad407))
+
 ## [1.1.5](https://github.com/trust0-project/relay/compare/v1.1.4...v1.1.5) (2025-04-17)
 
 ### Bug Fixes
