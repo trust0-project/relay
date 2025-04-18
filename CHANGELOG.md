@@ -1,3 +1,9 @@
+## [1.1.8-rc.2](https://github.com/trust0-project/relay/compare/v1.1.8-rc.1...v1.1.8-rc.2) (2025-04-18)
+
+### Bug Fixes
+
+* env variables and configuration ([f1f33cc](https://github.com/trust0-project/relay/commit/f1f33cc60e77aed440b9c349ce2a0e17e4515552))
+
 ## [1.1.8-rc.1](https://github.com/trust0-project/relay/compare/v1.1.7...v1.1.8-rc.1) (2025-04-18)
 
 ### Bug Fixes
